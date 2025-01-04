@@ -1,6 +1,6 @@
 ## Hi, I'm Burcu 👋
 
-- 💻 I’m currently learning JavaScript, Node.js, React.js, Express.js, PostgreSQL, Web3, DApps
+- 💻 I’m currently learning JavaScript, Node.js, React.js, Express.js, RESTful APIs, DOM manipulation, PostgreSQL, Web3, DApps
 - 👯 I’m looking to collaborate on any project
 - 📫 How to reach me: burcumengu@gmail.com,  LinkedIn: https://www.linkedin.com/in/burcu-mengu-180bb1103/
 <!--
