@@ -1,6 +1,6 @@
 ## Hi, I'm Burcu 👋
 
-- 💻 I’m currently learning Object-Oriented Programming (OOP) with JavaScript, Node.js, React.js, Express.js, RESTful APIs, DOM manipulation, and SQL.
+- 💻 Actively building expertise in JavaScript and full-stack development, including OOP, React, Node.js, Express, RESTful APIs, DOM, and SQL.
 - 👯 Open to collaborating on any open-source projects
 - 📫 How to reach me: burcumengu@gmail.com,  LinkedIn: https://www.linkedin.com/in/burcu-mengu-180bb1103/
 <!--
